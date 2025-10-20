@@ -1,7 +1,7 @@
 # 🌍 iDNS – Research Project on Secure DNS Resolution  
 
 A research-driven exploration into improving DNS resolution reliability and security.  
-Developed as part of **Hack36 9.0** under the *ISEA Phase III Network Security Bootcamp (MeitY)*.  
+Developed as part of **AIORI Phase I** under the *India Internet Foundation*.  
 
 ---
 
@@ -42,7 +42,7 @@ All experimental configurations, scripts, and datasets remain private for securi
 ---
 
 ### 📚 Related Projects
-This repository is part of my **Hack36 9.0 project suite** focused on *Cybersecurity & Network Security*.  
+This repository is part of my **AIORI** focused on *Cybersecurity & Network Security*.  
 Explore related modules:  
 
 - 🔐 [Web Security Scanner](https://github.com/Jigisha-Diksha/Web-Security-Scanner)  
