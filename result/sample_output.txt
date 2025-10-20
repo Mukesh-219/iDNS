@@ -1,0 +1,10 @@
+DNS Performance Summary (Public Example)
+---------------------------------------
+Cold Query (Average): 52 ms
+Warm Query (Cached): 9 ms
+DNSSEC Validation: Enabled
+Cache Optimization: Active
+
+Notes:
+- The numbers above are for conceptual demonstration only.
+- Real benchmark data is withheld for research confidentiality.
